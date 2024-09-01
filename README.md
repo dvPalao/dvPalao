@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7n1lsw1md9wjlygnwyecpv34h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7n1lsw1md9wjlygnwyecpv34h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]([https://github.com/kittinan/spotify-github-profile](https://github.com/dvPalao))
 
   </td>
   <td width="50%">
