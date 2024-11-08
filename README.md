@@ -7,7 +7,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center">Everything I know i will not implement here temporarily since they are projects of external people not my own, so if you need to contact me you have my social networks.<br><br>
+<br><p align="center">Some projects are mine and others are not since they are projects of external people in which I participate as a dev, so if you need to contact me you have my social networks. <br><br>
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://p-lao.netlify.app/)
 </p>
   </td>
